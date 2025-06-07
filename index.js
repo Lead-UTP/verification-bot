@@ -9,4 +9,4 @@ client.once('ready', () => {
   console.log(`Bot activo como ${client.user.tag}`);
 });
 
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN);  
